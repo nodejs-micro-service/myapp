@@ -1,0 +1,19 @@
+node_modules/
+coverage/
+.nyc_output
+.DS_Store
+.sass-cache
+*.map
+.idea
+*.iml
+logs/*
+!logs/.hidden
+junitresults.xml
+# SONAR IGNORE
+*.properties
+.sonar
+*.log
+component-test/output/*
+!urbanCode/.env
+.scannerwork
+.vscode
