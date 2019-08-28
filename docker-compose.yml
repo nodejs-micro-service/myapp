@@ -1,0 +1,7 @@
+version: '1.0'
+
+services:
+  my-nodejs-app:
+    image: srinu4portal/docker-nodejs-express-app
+    ports:
+      - 3000:3000
